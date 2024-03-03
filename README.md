@@ -1,4 +1,4 @@
-# PM2.5 Concentration Prediction
+# PollutionMapper PM2.5 
 
 ## Introduction
 This project aims to predict PM2.5 (particulate matter with a diameter of 2.5 micrometers or less) concentration using machine learning techniques. PM2.5 concentration prediction is crucial for environmental monitoring and public health management, as high levels of PM2.5 can have adverse effects on human health.
