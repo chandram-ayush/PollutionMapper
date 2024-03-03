@@ -30,8 +30,7 @@ You can install the required dependencies using pip:
 pip install -r requirements.txt
 ```
 
-## Data Preprocessing
-- **Attributes Used for Training**:
+
  ## Factors Taken into Account When Training the Model
 
 ### Environmental and Meteorological Variables
